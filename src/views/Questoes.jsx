@@ -40,11 +40,6 @@ class Questoes extends Component {
                 </Card.Body>
                 </Card>
 
-                <Card className="mt-4">
-                    <Card.Body>
-                        
-                    </Card.Body>
-                </Card>
             </div>
         )
     }
