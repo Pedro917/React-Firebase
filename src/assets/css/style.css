@@ -1,0 +1,20 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F4F3EF;
+}
+
+
+.main{
+    padding: 20px;
+    transition: all 0.5s;
+}
+
+.main-active{
+    padding: 20px;
+    margin-left: 260px;
+    transition: all 0.5s;
+}
